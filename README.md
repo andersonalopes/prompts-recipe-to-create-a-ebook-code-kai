@@ -1,7 +1,6 @@
 # Projeto EBOOK Gerado por I.A.s
 
-> Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+> Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts seguem abaixo.
 
 <a href="https://github.com/andersonalopes/prompts-recipe-to-create-a-ebook-code-kai/blob/main/ebook-python-code-kai-anderson-lopes.pdf" title="Visualizar PDF agora"> 📕Clique aqui para ler o Ebook</a>
 
@@ -11,10 +10,10 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## 💻 Prompts
 
 
-ChatGPT：
+💻 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -22,25 +21,24 @@ ChatGPT：
 | conteúdo | 1) {Regras} Explique sempre de uma maneira simples para o programador junior, deixe o texto enxuto, sempre traga exemplos de código em contextos reais do nicho Caratê, sempre deixe um título sugestivo por tópico. 2) Faça um texto para ebook, com foco em Python, listando os principais comandos Listas, icionários e tuplas em Python com exemplos em códigos. 3) Faça um texto para ebook, com foco em banco de dados em Sqlite em Python, listando os principais comandos Sqlite com exemplos em códigos. |
 
 
-Midjourney：
+💻 Bling：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an art with the theme of the movie Karate Kid or the series Cobra Kai, with a technological designer from the 80s with the title written in 80s fonts written: Code Kai, and that has the language logo Python with a programmer coding on an 80s laptop wearing a white karate kimono. |
 
-## ✨ Features
+## 📚 Características
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via ChatGPT.
+- Imagens geradas via Bling.
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
+## 👨‍💻 Profissional
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
+> Anderson Assis Lopes <br/>
+> <a href="www.linkedin.com/in/anderson-lopes-23686929/">- LINKEDIN</a>
 
