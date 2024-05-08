@@ -1,4 +1,4 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s (CODE KAI)
 
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts seguem abaixo.
 
