@@ -42,3 +42,6 @@
 > Anderson Assis Lopes <br/>
 > <a href="www.linkedin.com/in/anderson-lopes-23686929/">- LINKEDIN</a>
 
+---
+
+⌨️ por [Anderson Lopes](https://github.com/andersonalopes)
