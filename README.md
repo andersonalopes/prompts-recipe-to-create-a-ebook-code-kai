@@ -2,7 +2,7 @@
 
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts seguem abaixo.
 
-<a href="https://github.com/andersonalopes/prompts-recipe-to-create-a-ebook-code-kai/blob/main/ebook-python-code-kai-anderson-lopes.pdf" title="Visualizar PDF agora"> 📕Clique aqui para ler o Ebook</a>
+<a href="https://github.com/andersonalopes/prompts-recipe-to-create-a-ebook-code-kai/blob/main/output/ebook-python-code-kai-anderson-lopes.pdf" title="Visualizar PDF agora"> 📕Clique aqui para ler o Ebook Code Kai</a>
 
 ## 💻 Tecnologias utilizadas no projeto Ebook
 
