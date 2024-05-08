@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/code-kai-capa.png"
     width="400"  
 />
 </p>
